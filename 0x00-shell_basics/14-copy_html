@@ -1,4 +1,4 @@
 #!/bin/bash
-cp -u -n *. html ..
+cp -u -n *. html ../
 
 
